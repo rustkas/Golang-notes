@@ -26,3 +26,9 @@ Run code:
 go run main.go -function join1 -arg1="Hello, " -arg2="World" -arg3=100
 go run main.go -function join2 -arg1="Hello, " -arg2="World" -arg3=100
 ```
+
+Import:
+
+```
+go get github.com/dustin/go-humanize
+```
